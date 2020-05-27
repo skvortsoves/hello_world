@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages (2)
 
 [ExampleDoc](/doc1.md)
 
