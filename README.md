@@ -1,3 +1,8 @@
+---
+layout: page
+title: Welcome
+---
+
 ## Welcome to GitHub Pages (2)
 
 [ExampleDoc](/doc1.md)
