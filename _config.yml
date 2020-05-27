@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 plugins:
   - jekyll-sitemap
   
+header_pages:
+  - rumerica/index.md
+  - about.md
